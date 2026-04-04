@@ -1,9 +1,9 @@
 # Sales Analysis and Forecasting
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-orange)
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-purple)
+![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Notebook](https://img.shields.io/badge/Environment-Jupyter-orange)
 
 This project analyzes sales performance using the Global Superstore dataset, combining exploratory data analysis (EDA) with predictive modeling to extract insights and support data-driven decision-making.
 
