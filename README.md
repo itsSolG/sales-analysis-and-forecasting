@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-orange)
-![Data Science](https://img.shields.io/badge/Data%20Science-Project-purple)
 ![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-green)
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This project analyzes sales performance using the Global Superstore dataset, combining exploratory data analysis (EDA) with predictive modeling to extract insights and support data-driven decision-making.
@@ -41,6 +41,8 @@ The project is divided into two main stages:
 
 ## Dataset
 Global Superstore dataset (cleaned version for analysis)
+
+[Download dataset](https://github.com/itsSolG/sales-analysis-and-forecasting/blob/main/data/superstore.csv)
 
 ## Objective
 To understand sales behavior, identify key business insights, and build a predictive model to estimate future sales.
