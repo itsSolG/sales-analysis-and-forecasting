@@ -26,11 +26,11 @@ The project is divided into two main stages:
       Sales prediction
 
 ## Key Insights
-    The business shows a consistent upward trend in sales over time.
-    Strong seasonal patterns are observed, with peaks at the end of the year.
-    Technology is the leading category in both revenue and profitability.
-    Furniture generates high sales but has significantly lower profit margins.
-    Revenue is distributed across multiple high-performing products, with technology items   dominating the top positions.
+    - The business shows a consistent upward trend in sales over time.
+    - Strong seasonal patterns are observed, with peaks at the end of the year.
+    - Technology is the leading category in both revenue and profitability.
+    - Furniture generates high sales but has significantly lower profit margins.
+    - Revenue is distributed across multiple high-performing products, with technology items   dominating the top positions.
 
 ## Tools & Technologies
     Python
