@@ -46,3 +46,36 @@ Global Superstore dataset (cleaned version for analysis)
 
 ## Objective
 To understand sales behavior, identify key business insights, and build a predictive model to estimate future sales.
+
+
+## Sample Visualizations
+
+
+### Sales Forecasting
+<p align="left">
+  <img src="images/forecast_scatter.png" width="500">
+</p>
+
+This visualization compares actual sales with the values predicted by the machine learning model. The results show a clear positive relationship between actual and predicted values, indicating that the model is able to capture the overall trend in the data. Most predictions are close to the ideal diagonal line, which suggests a reasonable level of accuracy.
+However, some dispersion is observed, particularly for higher sales values, where the model tends to underestimate actual results. This indicates that while the model performs well in general, it has limitations when handling extreme cases.
+Overall, the model provides a useful approximation of sales behavior and can support data-driven decision making.
+
+
+### Monthly Sales Trend
+<p align="left">
+  <img src="images/monthly_sales.png" width="500">
+</p>
+
+This visualization shows the evolution of total sales over time on a monthly basis.
+The trend highlights variations in sales performance across different periods, making it possible to identify patterns such as growth, decline, or potential seasonality. These fluctuations provide valuable insights into how demand changes over time.
+Understanding these trends can help businesses anticipate future behavior and make more informed strategic decisions.
+
+
+### Profitability Analysis
+<p align="left">
+  <img src="images/profit_margin_category.png" width="500">
+</p>
+
+This chart presents the profit margin by category, allowing a comparison between how much each category sells and how much it actually earns.
+The analysis reveals that high sales do not always translate into high profitability. Some categories generate strong revenue but have lower margins, suggesting inefficiencies such as higher costs or aggressive pricing strategies.
+By focusing on profit margin instead of only sales volume, this visualization provides a deeper understanding of business performance and helps identify more profitable segments.
