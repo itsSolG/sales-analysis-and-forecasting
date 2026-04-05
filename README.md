@@ -6,7 +6,7 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-Project-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-This project analyzes sales performance using the Global Superstore dataset, combining exploratory data analysis (EDA) with predictive modeling to extract insights and support data-driven decision-making.
+This project analyzes sales performance using the Global Superstore dataset, combining exploratory data analysis (EDA) with predictive modeling to identify trends, evaluate profitability, and build a machine learning model to forecast future sales. The goal is to transform raw data into actionable insights and support data-driven decision making.
 
 ## Project Overview
 
